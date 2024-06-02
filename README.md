@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter and MERN<br>🌱 I’m currently learning Next JS
+🔭 I’m currently working on Flutter and MERN<br>🌱 I’m currently learning Next JS<br>
+👯 I’m looking to collaborate on Projects<br>
+🤝 I’m looking for help with Backend<br>
+💬 Ask me about anything related to Cross Platform Development
+
 
 
 ## 🌐 Socials:
